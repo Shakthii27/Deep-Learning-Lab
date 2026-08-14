@@ -1,0 +1,3 @@
+This project uses the Fashion-MNIST dataset to create a Multi-Layer Perceptron (MLP) for image categorisation. The entire deep learning workflow—dataset loading, preprocessing, model building, training, assessment, and result visualization-is covered in the notebook. Using TensorFlow/Keras, an MLP model is constructed to categorise clothes photos into ten distinct groups.
+
+Additionally, the model is assessed by the project using a confusion matrix, accuracy, precision, recall, and F1-score. Additionally, the ideal set of model parameters is found by hyperparameter tweaking using RandomizedSearchCV with SciKeras, which enhances the model's classification performance and offers a deeper comprehension of neural network optimisation.
