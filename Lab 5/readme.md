@@ -98,6 +98,4 @@ The final model achieved:
 
 The relatively low accuracy is expected because the experiments use a small dataset subset and only one training epoch to keep the notebook fast and memory-efficient.
 
-## Repository
 
-The Lab 5 notebook and report are available in the `Lab 5` folder of this repository.
